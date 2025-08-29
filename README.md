@@ -1,5 +1,4 @@
-# Annual-Business-Performance-Report
-📊 Annual Business Performance Report 2024
+# 📊 Annual-Business-Performance-Report 2024
 
 This project presents an interactive Excel Dashboard designed to analyze and visualize the annual business performance for 2024. The dashboard consolidates sales, orders, customer demographics, and channel-wise distribution, providing actionable insights for decision-making.
 
@@ -27,7 +26,6 @@ Charts & Graphs – Bar Chart, Line Chart, Pie Chart, Combo Chart.
 
 Pivot Tables & Pivot Charts – To aggregate and summarize large datasets.
 
-Slicers – For interactive filtering across categories and time.
 
 📈 Insights Derived
 
