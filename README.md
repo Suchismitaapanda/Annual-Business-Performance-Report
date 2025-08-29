@@ -40,3 +40,5 @@ Majority of orders are successfully delivered (92%), with minimal refunds/return
 📌 Project Purpose
 
 This dashboard provides a single-page business intelligence view, enabling stakeholders to track performance, identify trends, and make data-driven decisions efficiently.
+
+Thankyou.
